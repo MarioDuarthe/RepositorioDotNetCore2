@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\temp\\cursos\\dotNetCore\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj": {}
+    "E:\\temp\\cursos\\RepositorioDotNetCore2\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj": {}
   },
   "projects": {
-    "E:\\temp\\cursos\\dotNetCore\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj": {
+    "E:\\temp\\cursos\\RepositorioDotNetCore2\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\temp\\cursos\\dotNetCore\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj",
+        "projectUniqueName": "E:\\temp\\cursos\\RepositorioDotNetCore2\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj",
         "projectName": "EstruturaMvc",
-        "projectPath": "E:\\temp\\cursos\\dotNetCore\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj",
+        "projectPath": "E:\\temp\\cursos\\RepositorioDotNetCore2\\EstruturaMvc\\EstruturaMvc\\EstruturaMvc.csproj",
         "packagesPath": "C:\\Users\\Mario Duarte\\.nuget\\packages\\",
-        "outputPath": "E:\\temp\\cursos\\dotNetCore\\EstruturaMvc\\EstruturaMvc\\obj\\",
+        "outputPath": "E:\\temp\\cursos\\RepositorioDotNetCore2\\EstruturaMvc\\EstruturaMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
